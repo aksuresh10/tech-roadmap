@@ -20,6 +20,7 @@ import java.util.Optional;
 import java.util.UUID;
 
 @RestController
+@CrossOrigin("*")
 @RequestMapping("/roadmap")
 public class HomeController {
 
