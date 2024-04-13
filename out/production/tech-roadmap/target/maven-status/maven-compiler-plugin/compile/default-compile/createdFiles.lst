@@ -1,0 +1,4 @@
+com\techroadmap\techroadmap\TechroadmapApplication.class
+com\techroadmap\techroadmap\repository\RoadMapRepository.class
+com\techroadmap\techroadmap\Entity\RoadMapObjectDetails.class
+com\techroadmap\techroadmap\controller\HomeController.class
